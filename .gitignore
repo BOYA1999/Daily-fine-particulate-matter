@@ -221,3 +221,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local PM2.5 inputs and generated outputs
+/data/
+/results/
+/manuscript/figures/
